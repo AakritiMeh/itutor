@@ -1,0 +1,154 @@
+{
+  "overall_summary": "Neural networks are machine learning models that mimic the complex functions of the human brain. These models consist of interconnected nodes or neurons that process data, learn patterns and enable tasks such as pattern recognition and decision-making. The image illustrates the analogy between a biological neuron and an artificial neuron, showing how inputs are received and processed to produce outputs. Each neuron in a layer receives inputs which are multiplied by the weights associated with the connections. These products are summed together and a bias is added to the sum. The result of the linear transformation (denoted The network evaluates its performance using a loss function which measures the difference between the actual output and the predicted output. The goal of training is to minimize this loss. Backpropagation comes into play: This process of forward propagation, loss calculation, backpropagation and weight update is repeated for many iterations over the dataset. Over time Let's consider a record of an email dataset: Email ID Email Content Sender Subject Line Label 1 \"Get free gift cards now!\" spam@example.com \"Exclusive Offer\" 1 To classify this email, we will create a feature Each neuron in the hidden layer performs two primary operations: a weighted sum and an activation function. The output value of approximately 0.636 indicates the probability of the email being spam. Since this value is greater than 0.5, the neural network classifies the email as spam. Unsupervised learning involves data without labeled output variables. Unlike supervised learning, there is no instructor to guide the process. There are seven types of neural networks that can be used. Reinforcement learning enables a neural network to learn through interaction with its environment. This approach is widely used in applications like gaming and decision-making.",
+  "modular_summaries": {
+    "0": {
+      "theme": "Oct & Updated",
+      "summary": "Neural networks are machine learning models that mimic the complex functions of the human brain. These models consist of interconnected nodes or neurons that process data, learn patterns and enable tasks such as pattern recognition and decision-making. The image illustrates the analogy between a biological neuron and an artificial neuron, showing how inputs are received and processed to produce outputs.",
+      "keywords": [
+        "Oct Neural Networks Machine",
+        "Updated Response New Data",
+        "Evolves Allowing Adapt Effectively",
+        "Based Current Parameters",
+        "Processes Enhance Productivity Industries"
+      ],
+      "coherence_score": 0.36415200656943625,
+      "original_length": 3286,
+      "summary_length": 406,
+      "compression_ratio": 0.12355447352404139
+    },
+    "1": {
+      "theme": "Transformation & Process",
+      "summary": "Each neuron in a layer receives inputs which are multiplied by the weights associated with the connections. These products are summed together and a bias is added to the sum. The result of the linear transformation (denoted",
+      "keywords": [
+        "Transformation Neuron Layer Receives",
+        "Process Known Forward",
+        "Inputs Bb Bias",
+        "Non Linearity Enabling",
+        "Bz Wn Xn"
+      ],
+      "coherence_score": 0.2902306704116719,
+      "original_length": 767,
+      "summary_length": 223,
+      "compression_ratio": 0.2907431551499348
+    },
+    "2": {
+      "theme": "Loss & Network",
+      "summary": "The network evaluates its performance using a loss function which measures the difference between the actual output and the predicted output. The goal of training is to minimize this loss. Backpropagation comes into play:",
+      "keywords": [
+        "Loss Backpropagation",
+        "Network Evaluates Performance Using",
+        "Weights Adjusted Opposite",
+        "Step Taken Update Determined",
+        "Function Vary Common Choices"
+      ],
+      "coherence_score": 0.3428756802032391,
+      "original_length": 1115,
+      "summary_length": 221,
+      "compression_ratio": 0.19820627802690582
+    },
+    "3": {
+      "theme": "Propagation & Neural Networks",
+      "summary": "This process of forward propagation, loss calculation, backpropagation and weight update is repeated for many iterations over the dataset. Over time",
+      "keywords": [
+        "Propagation Loss Calculation Backpropagation",
+        "Neural Networks",
+        "Iteration Process",
+        "Weight Update Repeated",
+        "Data Improving Performance Tasks"
+      ],
+      "coherence_score": 0.2410861124905447,
+      "original_length": 485,
+      "summary_length": 148,
+      "compression_ratio": 0.30515463917525776
+    },
+    "4": {
+      "theme": "Example & Offer",
+      "summary": "Let's consider a record of an email dataset: Email ID Email Content Sender Subject Line Label 1 \"Get free gift cards now!\" spam@example.com \"Exclusive Offer\" 1 To classify this email, we will create a feature",
+      "keywords": [
+        "Example Email Classification",
+        "Offer Present Neurons",
+        "Create Feature Vector",
+        "Free Win",
+        "Multiple Layers Including Hidden"
+      ],
+      "coherence_score": 0.2708014860749245,
+      "original_length": 779,
+      "summary_length": 208,
+      "compression_ratio": 0.26700898587933247
+    },
+    "5": {
+      "theme": "Neural & Vector",
+      "summary": "Each neuron in the hidden layer performs two primary operations: a weighted sum and an activation function. The output value of approximately 0.636 indicates the probability of the email being spam. Since this value is greater than 0.5, the neural network classifies the email as spam.",
+      "keywords": [
+        "Neural Network Classifies Email",
+        "Vector Weighted Sum",
+        "Use Relu",
+        "Desired Outputs Error Signal",
+        "Input Hidden"
+      ],
+      "coherence_score": 0.29123700585103396,
+      "original_length": 1533,
+      "summary_length": 285,
+      "compression_ratio": 0.18590998043052837
+    },
+    "6": {
+      "theme": "Unsupervised & Data Labeled",
+      "summary": "Unsupervised learning involves data without labeled output variables. Unlike supervised learning, there is no instructor to guide the process.",
+      "keywords": [
+        "Unsupervised Learning Involves Data",
+        "Data Labeled",
+        "Unlike Supervised",
+        "Learning Instructor",
+        "Underlying Structure Input"
+      ],
+      "coherence_score": 0.15948089336355528,
+      "original_length": 263,
+      "summary_length": 142,
+      "compression_ratio": 0.5399239543726235
+    },
+    "7": {
+      "theme": "Neural & Type",
+      "summary": "There are seven types of neural networks that can be used. Reinforcement learning enables a neural network to learn through interaction with its environment. This approach is widely used in applications like gaming and decision-making.",
+      "keywords": [
+        "Neural Networks Used",
+        "Type Feedforward",
+        "Images Enabling",
+        "Feedback Loops Retain Context"
+      ],
+      "coherence_score": 0.2900697348311871,
+      "original_length": 1512,
+      "summary_length": 235,
+      "compression_ratio": 0.15542328042328044
+    }
+  },
+  "global_keywords": {
+    "Oct Neural Networks Machine": {
+      "relevance_score": 0.0,
+      "reference": "Last Updated : 07 Oct, 2025 Neural networks are machine learning models that mimic the complex functions of the human brain."
+    },
+    "Receives Feedback Form": {
+      "relevance_score": 0.0,
+      "reference": "The network receives feedback in the form of rewards or penalties, guiding it to find an optimal policy or strategy that maximizes cumulative rewards over time."
+    },
+    "Function Measures Difference Actual": {
+      "relevance_score": 0.0,
+      "reference": "Backpropagation After forward propagation, the network evaluates its performance using a loss function which measures the difference between the actual output and the predicted output."
+    },
+    "content": {
+      "relevance_score": 0.07,
+      "reference": "Example of Email Classification Let's consider a record of an email dataset: Email ID Email Content Sender Subject Line Label 1 \"Get free gift cards now!\""
+    }
+  },
+  "processing_info": {
+    "segmentation_method": "hybrid",
+    "num_original_sentences": 87,
+    "num_segments": 8,
+    "average_coherence": 0.281,
+    "average_compression_ratio": 0.258
+  },
+  "document_stats": {
+    "original_length": 9995,
+    "processed_length": 9747,
+    "total_keywords": 4
+  }
+}

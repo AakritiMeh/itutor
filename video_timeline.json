@@ -1,0 +1,121 @@
+[
+  {
+    "start_time": 0,
+    "end_time": 10,
+    "keyword": "Introduction to Neural Networks",
+    "image_prompt": "Abstract representation of interconnected glowing neurons forming a brain-like network, with 'AI' and 'Machine Learning' subtly integrated.",
+    "transition": "fade"
+  },
+  {
+    "start_time": 10,
+    "end_time": 25,
+    "keyword": "Oct Neural Networks Machine",
+    "image_prompt": "Side-by-side comparison: a simplified diagram of a biological neuron (dendrites, axon, nucleus) next to an artificial neuron diagram (inputs, weights, sum, activation function, output).",
+    "transition": "cut"
+  },
+  {
+    "start_time": 25,
+    "end_time": 45,
+    "keyword": "Transformation Neuron Layer Receives",
+    "image_prompt": "Animated diagram showing inputs (x1, x2, x3) flowing into an artificial neuron, multiplied by weights (w1, w2, w3), summed, and then a bias (b) being added.",
+    "transition": "slide_left"
+  },
+  {
+    "start_time": 45,
+    "end_time": 65,
+    "keyword": "Process Known Forward Propagation",
+    "image_prompt": "A simplified neural network diagram (input layer, one hidden layer, output layer) with arrows indicating the data flow from left to right, representing 'forward propagation'.",
+    "transition": "fade"
+  },
+  {
+    "start_time": 65,
+    "end_time": 85,
+    "keyword": "Loss Backpropagation",
+    "image_prompt": "Graph showing a 'loss' value decreasing over time/iterations. Overlaid with arrows illustrating backward flow (backpropagation) through the network layers.",
+    "transition": "cut"
+  },
+  {
+    "start_time": 85,
+    "end_time": 105,
+    "keyword": "Network Evaluates Performance Using",
+    "image_prompt": "A visual metaphor of a 'judge' or 'auditor' icon standing next to a neural network, comparing a 'predicted output' with an 'actual output' with a red 'X' or green 'check'.",
+    "transition": "fade"
+  },
+  {
+    "start_time": 105,
+    "end_time": 125,
+    "keyword": "Propagation Loss Calculation Backpropagation",
+    "image_prompt": "A continuous loop animation: forward arrows, a 'loss' calculation icon, then backward arrows with 'weight adjustment' symbols. Shows 'iteration process' visually.",
+    "transition": "slide_right"
+  },
+  {
+    "start_time": 125,
+    "end_time": 140,
+    "keyword": "Data Improving Performance Tasks",
+    "image_prompt": "Growing bar chart or performance metric rising, alongside diverse icons representing various AI tasks like image recognition, language translation, and prediction.",
+    "transition": "cut"
+  },
+  {
+    "start_time": 140,
+    "end_time": 160,
+    "keyword": "Example Email Classification",
+    "image_prompt": "A screenshot or graphic representation of an email inbox with one email highlighted: 'Exclusive Offer' from spam@example.com. Next to it, a 'SPAM' stamp.",
+    "transition": "fade"
+  },
+  {
+    "start_time": 160,
+    "end_time": 175,
+    "keyword": "Create Feature Vector",
+    "image_prompt": "An email breaking down into distinct features (sender, subject, keywords 'free', 'offer') converting into a numerical vector [1, 0, 1, 0.5, ...].",
+    "transition": "slide_up"
+  },
+  {
+    "start_time": 175,
+    "end_time": 195,
+    "keyword": "Neural Network Classifies Email",
+    "image_prompt": "A detailed but clear diagram of a hidden layer neuron performing weighted sum and then an activation function (e.g., sigmoid curve). Shows output '0.636'.",
+    "transition": "cut"
+  },
+  {
+    "start_time": 195,
+    "end_time": 210,
+    "keyword": "Vector Weighted Sum",
+    "image_prompt": "Simplified diagram showing a 'spam' email input leading to a network outputting 'SPAM' with high confidence. A filter icon is prominent.",
+    "transition": "fade"
+  },
+  {
+    "start_time": 210,
+    "end_time": 225,
+    "keyword": "Unsupervised Learning Involves Data",
+    "image_prompt": "A dataset represented as scattered, unlabeled points. A neural network is grouping them into distinct clusters without prior labels, showing 'underlying structure input'.",
+    "transition": "cut"
+  },
+  {
+    "start_time": 225,
+    "end_time": 245,
+    "keyword": "Underlying Structure Input",
+    "image_prompt": "Contrast between a labeled dataset (data points with distinct colors/labels) and an unlabeled dataset (all data points are the same color), emphasizing 'no instructor'.",
+    "transition": "fade"
+  },
+  {
+    "start_time": 245,
+    "end_time": 265,
+    "keyword": "Neural Networks Used",
+    "image_prompt": "Collage of different types of neural networks (e.g., CNN for images, RNN for sequences, Feedforward for basic tasks) appearing as distinct icons.",
+    "transition": "slide_left"
+  },
+  {
+    "start_time": 265,
+    "end_time": 285,
+    "keyword": "Reinforcement Learning Enables",
+    "image_prompt": "A robot or AI agent in a game-like environment, receiving 'rewards' (green check) or 'penalties' (red X) as it interacts, learning to navigate and make decisions.",
+    "transition": "fade"
+  },
+  {
+    "start_time": 285,
+    "end_time": 300,
+    "keyword": "Conclusion: Power of NNs",
+    "image_prompt": "Dynamic, futuristic visual showing various real-world applications of AI powered by neural networks: self-driving cars, medical imaging, smart assistants, financial prediction.",
+    "transition": "fade"
+  }
+]
